@@ -17,4 +17,4 @@ Het project bevat de volgende bestanden:
 3. Stel passende _root-font-sizes_ in voor mobiel, tablet en desktop door gebruik te maken van media-queries;
 4. Zorg ervoor dat de achtergrondkleur van de body veranderd op basis van de schermgrootte. Geel op mobiel, oranje op tablets en rood op desktop;
 5. Maak de sections en de tekst die erin staat zo op dat ze eruit zien als het voorbeeld. Houdt bij het gebruik van padding en margin rekening dat ook die afstanden afhankelijk moeten zijn van de root-font-size;
-6. Voeg de afbeelding (`novi-responsive.png`) in tussen de tekst in de tweede section en zorg dat deze zich responsive gedraagt.
+6. Voeg de afbeelding (`novi-responsive.png`) in tussen de tekst in de tweede section en zorg dat deze zich responsive gedraagt.# css-responsiveness-arjan
